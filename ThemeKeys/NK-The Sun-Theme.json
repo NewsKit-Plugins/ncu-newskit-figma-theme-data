@@ -114,6 +114,16 @@
             "interfaceBrand030": "b644256acc6ac7a0c482645d8901820453ff5146"
           }
         },
+        "Health": {
+          "themeName": "TheSun-Health",
+          "children": {},
+          "tokens": {
+            "inkBrand020": "1fbb3284d0b1468ce68cb8c4758d69b8ca42917f",
+            "interfaceBrand010": "d17b4d042df6420c5c4384c20ef6e7f0d5fec2ef",
+            "interfaceBrand020": "30a96e63ca829f4f512a12e00188ef699f771f74",
+            "interfaceBrand030": "6971396f5a2395a9dc030aff5e22f4d01fa64b79"
+          }
+        },
         "TheSun Dark": {
           "themeName": "TheSun-TheSun Dark",
           "children": {
@@ -225,6 +235,16 @@
                 "interfaceBrand010": "28f425ec9cc69497d678f110c49483ad355b4069",
                 "interfaceBrand020": "1118071ed0cfb8fe9afa190c792760f1d9053e0a",
                 "interfaceBrand030": "0535c5789f27bd4dc9e30ce9612b9b733a738455"
+              }
+            },
+            "Health": {
+              "themeName": "TheSun-TheSun Dark-Health",
+              "children": {},
+              "tokens": {
+                "inkBrand020": "b3b1cd9d32345a01bda63185c6f2adc6b85f1a57",
+                "interfaceBrand020": "e2af36b54d99747e83faeae423cd683a6f022cab",
+                "interfaceBrand010": "aa8c807ee5b98f44d3c121270dcc050af802d593",
+                "interfaceBrand030": "9091bfd2a454834e002cf815eae9d719ce435d3d"
               }
             }
           },
