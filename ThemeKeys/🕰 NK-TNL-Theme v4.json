@@ -112,6 +112,178 @@
             "interfaceBrand010": "5bb2e5a7d6d0a5ef299337eb6edc4a259d11f465"
           }
         },
+        "TNL Dark": {
+          "themeName": "TNL-TNL Dark",
+          "children": {
+            "Business": {
+              "themeName": "TNL-TNL Dark-Business",
+              "children": {},
+              "tokens": {
+                "inkBrand010": "93e98550fa4e20e171d99ae842fb5a8558d5f021",
+                "interfaceBrand010": "da63e7aaa0619e99c36a4986e5da13bcad248132"
+              }
+            },
+            "Comment": {
+              "themeName": "TNL-TNL Dark-Comment",
+              "children": {},
+              "tokens": {
+                "inkBrand010": "a33b618b04134f76fdec6f67b845ada449198d6a",
+                "interfaceBrand010": "4fde8dba243566ecd22a4e7d79f4f24c06bb1bb4"
+              }
+            },
+            "Culture": {
+              "themeName": "TNL-TNL Dark-Culture",
+              "children": {},
+              "tokens": {
+                "inkBrand010": "b2f9588af2ada06d204b83a9d9c768769197d779",
+                "interfaceBrand010": "2e4e07fd0e8ff4244cf323a2e21d0be3ae95c2de"
+              }
+            },
+            "Home": {
+              "themeName": "TNL-TNL Dark-Home",
+              "children": {},
+              "tokens": {
+                "inkBrand010": "7f5c6aba2d93200baeb5182ed646311b9cede3ec",
+                "interfaceBrand010": "b93f14e4f3a78d2953191cb389b4bd376c401cc7"
+              }
+            },
+            "Money": {
+              "themeName": "TNL-TNL Dark-Money",
+              "children": {},
+              "tokens": {
+                "inkBrand010": "0ffd129be8290b08e8c7c18d9fbf42a7611f3dfe",
+                "interfaceBrand010": "50a6311f899f8bba0170918d40164d83fe3e7a10"
+              }
+            },
+            "News": {
+              "themeName": "TNL-TNL Dark-News",
+              "children": {},
+              "tokens": {
+                "inkBrand010": "fd35ee8b2e7039e87f183a58eaf2e4770762e665",
+                "interfaceBrand010": "0e4d32655af0df32528ed19a1c7409d2ae71440e"
+              }
+            },
+            "Puzzle": {
+              "themeName": "TNL-TNL Dark-Puzzle",
+              "children": {},
+              "tokens": {
+                "inkBrand010": "e616a00524d4e7fdeb0eb1c388c49abb980f254a",
+                "interfaceBrand010": "bc1476cd38547fadfaff9942b5a5a202c334ed95"
+              }
+            },
+            "Register": {
+              "themeName": "TNL-TNL Dark-Register",
+              "children": {},
+              "tokens": {
+                "inkBrand010": "4808f76a825b5260c87b23821988aa11b11aa840",
+                "interfaceBrand010": "0e23b0488094c26b8d84ea0a9d11e871910abe54"
+              }
+            },
+            "Sport": {
+              "themeName": "TNL-TNL Dark-Sport",
+              "children": {},
+              "tokens": {
+                "inkBrand010": "052ad9ec24574bdd520b621874ac6e9b23a4e6c2",
+                "interfaceBrand010": "14b62ea009590f6736a71ecbbfcaeec08eb52d77"
+              }
+            },
+            "Times2": {
+              "themeName": "TNL-TNL Dark-Times2",
+              "children": {},
+              "tokens": {
+                "inkBrand010": "3f5766609ef048bf3fb76e6ff6e66f99806676f6",
+                "interfaceBrand010": "a49292e98d5d9499931f94b9dcfded360f058100"
+              }
+            },
+            "Travel": {
+              "themeName": "TNL-TNL Dark-Travel",
+              "children": {},
+              "tokens": {
+                "inkBrand010": "29dd3173f400c16e70f826583980ca3a7d21e040",
+                "interfaceBrand010": "cc9ded21d5323b95e3ff10f1826d4f4db96e748e"
+              }
+            },
+            "World": {
+              "themeName": "TNL-TNL Dark-World",
+              "children": {},
+              "tokens": {
+                "inkBrand010": "882fa0b5cc95c7ff38cecc2378d6868f03cf95c9",
+                "interfaceBrand010": "8b081a21ae82f8ebf552958123683269e857c70a"
+              }
+            }
+          },
+          "tokens": {
+            "inkBase": "cf34cc61089d2dea64fea817041b249ff82e13a5",
+            "inkContrast": "c1a146e00cb5025d70f5c86ab4ac1325b8e2c343",
+            "inkSubtle": "6ea5f27533e77ed57006d939114366f0e1cab423",
+            "InkNonEssential": "cd09c1dbe91320672f2f91c53f3ccc7291197266",
+            "InkInverse": "31df3d4b534a68df7cd769a1d5620f3ede767a47",
+            "InkPositive": "61b61e4dd4b98085594ddade7b300fa81b5d9d1f",
+            "InkNegative": "e58572d3c2f3fb7cd0886c9c2c106d17c8963d8e",
+            "InkNotice": "fafc2f80de0b911ea08b9c5cb9b8c5eeeef34aa4",
+            "InkInformative": "df0bf4632132255dea8c138457dd295e084e3cc4",
+            "InkBrand010": "161f7ec8b98e600094f6406e940503c02447b723",
+            "InkBrand020": "eea1815e02daa35f907d2853e3c7d5cb61453e06",
+            "interfaceSkeleton020": "23dd3d7bdef9be4e889fc6deb277929f0a97ce60",
+            "interfaceSkeleton010": "c1cada3e990bd2c512ac1b19ec0ec5247bd44d9d",
+            "interfaceNeutral020": "de8343727639a251f69930f0b8994413e2aac43f",
+            "interfaceNeutral010": "c76be6e92cd9fa244fc0bcd83b01a46cfebc7e4a",
+            "interfaceInformative020": "0df5d5dce51924c04d5c6b92cf8e4b419ac019c8",
+            "interfaceInformative010": "a7e82ea93a26b7e0b7140d0837bef04001f2dc53",
+            "interfaceNotice020": "bcfdc061f3eee1284b4a6fcf1d7283cc7beb8172",
+            "interfaceNotice010": "c42ef03ec0b0e3c502a6d720d97a4928854cc369",
+            "interfaceNegative020": "40344afd6e470bd9e959d9e56195a80c69c5eb52",
+            "interfaceNegative010": "7a61b5c11b9cd74ecb289c838277d19ab7c47b14",
+            "interfacePositive020": "2bd38e65231ee1a5d767073cc08c10bc9c8bb6b3",
+            "interfacePositive010": "49bf7a974516b7c9cb560f8cff701a7f5603daa5",
+            "interfaceBrand020": "2e51d68e85205385fe2f012e47eb345938a82286",
+            "interfaceBrand010": "fb1b7fe40f06db2d19df810cf95fa7e89e710167",
+            "interface060": "8f352519d4e7237054665a76aadac2ff3b87fd87",
+            "interface050": "f0daaa158beefd8f57e4e7b4fa6b4f862adc4348",
+            "interface040": "2b678e2e3c0ac47ab8a49e59546782af6915f467",
+            "interface030": "0e776805b121c1ec14d0a5ceb443a3248f4962f9",
+            "interface020": "4de12a2e67c7ac59319f813e322def87c7b39e1a",
+            "interface010": "b559202c17f996102322c33be2cef2098911642c",
+            "interfaceBackground": "eedcb208bf89c6a4d8d1384a84b23258b6f23adb",
+            "interactivePrimary010": "929279e74306a0f46c4a8c2debbe32d3768082e7",
+            "interactivePrimary020": "fdc116c7e0693f87dbdb83f23b03582f1492d984",
+            "interactivePrimary030": "31107d3a5e3c5a4d1a0d49ed255ae7423a872091",
+            "interactivePrimary040": "837749fff496009d4d2738e33d59c41060066f3d",
+            "interactivePrimary050": "cc1ecdcc2329b642dbb3d53b613061f860fd47b9",
+            "interactiveSecondary010": "14d67a16a6efbcee834163913271800d8f5a4db9",
+            "interactiveSecondary020": "ad275898a4e886af03f1d8b0462b4c8af5d0aa14",
+            "interactiveSecondary030": "0cd2b586c5b2385b22fe06bbd3d0075084c81a32",
+            "interactiveSecondary040": "41c140250ad2f07ddabbdd2b7c06f3d6984f5ad3",
+            "interactiveSecondary050": "1d5f329f69e2ba7c9faab61415589798e7e4ef89",
+            "interactivePositive010": "e728fd5ea495868d9324b01e10e4caf781024e60",
+            "interactivePositive020": "485fec1c26716014cf96b283ca8a3f1b0928688c",
+            "interactivePositive030": "e0376c32566967c87afaef7f9d829bb94e8a1125",
+            "interactivePositive040": "b068b76472b7d8bd08925c06311a440310685648",
+            "interactivePositive050": "bb87d0bf7a960c9f771310c67533f9b7b0c2ddc9",
+            "interactiveNegative010": "67d4771123e7f45c19fefff598d8bd37e8dfc187",
+            "interactiveNegative020": "da5691bc1a05843d0b8495ec63d40f6e67d73d7b",
+            "interactiveNegative030": "eebd2eed4a0bbaef800d19e71236a95dd88b68ac",
+            "interactiveNegative040": "93cfec1f498cabca79a8446c6c26afce64acbdf4",
+            "interactiveNegative050": "41264aeeb5f52e3765b59e09cc9228dca74fe32a",
+            "interactiveInverse010": "d21c1b879e7cb2cf988d29ea07c95746eb33ae3f",
+            "interactiveInverse020": "541f989ccc226f20cdfbb85dd3d76d5614bf5f98",
+            "interactiveInverse030": "02b12fde4978a3f6b1b7f6a6cf713c940673d1ce",
+            "interactiveInverse040": "afdfd49c97554dd392293bd733c3b026d20fa1ab",
+            "interactiveInverse050": "903f8ff0dbfcd420e5812551afba161c853f0253",
+            "interactiveDisabled010": "3d778490b43789cf59b643d389b6ee8dbcad8e0b",
+            "interactiveVisited010": "32b1c42a99b4a8da789f87b4e85f6a2178582638",
+            "interactiveFocus010": "d149417b4ab4ec38c379f6e39a176789f9be6ff0",
+            "interactiveInput010": "86cecf15d1e296e8a0575fb0a080ff8ae5502cfe",
+            "interactiveInput020": "c682d1e54f803f5157f6fe24f257e8d6a7dcf274",
+            "interactiveInput030": "f51e95170800952a1f9552e169b9e6afdf9588a4",
+            "interactiveInput040": "c4955e0b4ae86635e869b0d6bbd65c747f01d03f",
+            "interactiveInput050": "6e87ba897791f777864cf2c3eefd315460d042d7",
+            "overlayGradientBaseVertical": "3b4abe1d990350de326fbc59221ff6c39a7b183d",
+            "overlayGradientBaseHorizontal": "ecab5efa5a5ab1c58a91948f8693d991f7521bf2",
+            "overlayGradientInverseVertical": "54096043d6fd786aa7c79de2f61eb415b5522967",
+            "overlayGradientInverseHorizontal": "a917480c34caaf287a0fa70141742977c592bd21"
+          }
+        },
         "TimesPlus": {
           "themeName": "TNL-TimesPlus",
           "children": {},
