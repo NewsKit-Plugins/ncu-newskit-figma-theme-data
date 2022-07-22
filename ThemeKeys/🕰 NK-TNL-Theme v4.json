@@ -44,8 +44,8 @@
           "themeName": "TNL-Money",
           "children": {},
           "tokens": {
-            "money010": "fd8f82701a7aa4e87122428812d1ade95ae09cc6",
             "inkBrand010": "6245130e873916c2551e8c10ac68c3465c97a485",
+            "money010": "fd8f82701a7aa4e87122428812d1ade95ae09cc6",
             "interfaceBrand010": "43e2ecd18e72daa1e3992a78fe58df8d57019d3b"
           }
         },
@@ -53,8 +53,8 @@
           "themeName": "TNL-News",
           "children": {},
           "tokens": {
-            "news010": "11d6a708a7c9b95e97797aae9d52e36c55e98ea3",
             "inkBrand010": "09c55399a5c6e4338413f81c4437fed259bf6cf9",
+            "news010": "11d6a708a7c9b95e97797aae9d52e36c55e98ea3",
             "interfaceBrand010": "14157332a4691600da420d4e6eec5cb432773996"
           }
         },
@@ -110,6 +110,14 @@
             "world010": "ed6839117884adb2a914ea113996e13d28789418",
             "inkBrand010": "2faebc4fe9a95cc360ec49921691813140af71f6",
             "interfaceBrand010": "5bb2e5a7d6d0a5ef299337eb6edc4a259d11f465"
+          }
+        },
+        "TimesPlus": {
+          "themeName": "TNL-TimesPlus",
+          "children": {},
+          "tokens": {
+            "timesplus010": "147db1eaa0d76c7f0560cdf4902373492d82f3a3",
+            "inkBrand010": "cbfe284e9bd9c42976b2c721e9f7c2f7bfe5bfa2"
           }
         }
       },
@@ -169,6 +177,7 @@
         "interactiveNegative050": "39d6b156ea74778aa73fe814947d27cfc6564ca5",
         "interactiveDisabled010": "cbb9399cc4186a02cf00734e20d59aed329c3177",
         "interactiveVisited010": "11dcf74748afc634d4c41e4b9938b86a8e792742",
+        "interactiveFocus010": "905406adf898fdcf868ef35d760cd65eb9752dea",
         "interactiveInverse010": "d601944a3db8ffcaf9d09b875ec72f3fb4a8dcc1",
         "interactiveInverse020": "9554b7008057a8ca76d657a3bd1dd557502d8a99",
         "interactiveInverse030": "0f8606e43dcba331b2fe98f2d439299602d2f344",
@@ -201,6 +210,7 @@
         "opacity030": "6fedd897d473f190209624ff5844854a32969924",
         "opacity020": "8b2857a852d2d448cbdf4b3eec660a2fcd5e424c",
         "opacity010": "af10b4e268fc9cbef9082f559f550bbd5bc25f17",
+        "opacity000": "8703d4e31bec4aa614840634bc7361e6f9917f2d",
         "gradientFromBottomRight": "2a871347383166d4e0732d78c1afa8ccb513531a",
         "gradientFromBottomLeft": "d37bcf8e2cae3ee47595351f7f9bc5661771f7e1",
         "gradientFromTopRight": "f3f3a52dc188d9df41308df4a002131c784305c4",
@@ -219,6 +229,7 @@
         "brandmarkVerticalInverse": "4afdee0efc79380077e50d77e734e1a61bf33dcc",
         "glyph": "a4ebe08495f9616d1363f284fb3f39d01cd2324f",
         "glyphInverse": "260c43ef655bbf7327678b96be3b53e872c62fd5",
+        "focus010": "c1024b9d6eff112e66e5ce4da4414210bbdad97e",
         "purple100": "91ebcb3a45b2cd0a1e227d46b210afc753b0ca36",
         "purple090": "3f3d85cf7889016ba9acc33f4bf5ddae4dc510bf",
         "purple080": "5593cc8dc68da87975f5787ef252a8eb5e9cc2ba",
@@ -321,6 +332,7 @@
         "socialGoogleRed": "d7e759f1696cdf27d16f5cd93625292a9e9ec09f",
         "socialGoogleYellow": "e92cf667ae466ba1decb4e65743f3fb80ee44a39",
         "socialGoogleGreen": "1113f76491e8cf3b7fc126ba825351628ff52116",
+        "timesplus010": "997cacbbfb2eeb5f31c92dc54eb65cff56c8b88d",
         "shadow010": "8f169461b3c4593a58884079eea4b191f01d7e14",
         "shadow020": "f93340bb3718656477d4a7ebbec1bc4864e8afbe",
         "shadow030": "1390309a0056f749089db395de5e2c4818e24144",
