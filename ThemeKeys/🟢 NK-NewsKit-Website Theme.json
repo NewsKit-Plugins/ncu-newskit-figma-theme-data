@@ -1,0 +1,280 @@
+{
+  "themeName": "ð¢ NK-NewsKit-Website Theme",
+  "children": {
+    "NewsKit Website": {
+      "themeName": "NewsKit Website",
+      "children": {
+        "NewsKit Website Dark": {
+          "themeName": "NewsKit Website-NewsKit Website Dark",
+          "children": {
+            "Site Illustration": {
+              "themeName": "NewsKit Website-NewsKit Website Dark-Site Illustration",
+              "children": {
+                "Blue": {
+                  "themeName": "NewsKit Website-NewsKit Website Dark-Site Illustration-Blue",
+                  "children": {},
+                  "tokens": {
+                    "i-AnatomyBorder020": "ba045322229d5344a0abd942a043b3ccc425b30b",
+                    "i-AnatomyBorder010": "2e630acc8084e3408e39ea8b7f077c6fc28e73e4",
+                    "i-AnatomySubtle": "c7ee2ce487465f102257c347ae8dc613846afacd",
+                    "i-Interface080": "d10bee348922441fed31ad4aebe5d523b46e851a",
+                    "i-Interface060": "bb0651d96e29c39186a631b78e8ec6f0a21968d0",
+                    "i-Interface040": "8a6a2dab13d4c9bf1721e518971010e980a51347",
+                    "i-Border010": "43d8dc17db3be22e72b8a4b9a152d3eac9d757f9",
+                    "i-Background020": "3be3485dd7079a5d381e2b41a531964fffa7aabd",
+                    "i-Gradient020": "738f0b11446e783f923ce7abb1d98ca49f9d3590"
+                  }
+                },
+                "Purple": {
+                  "themeName": "NewsKit Website-NewsKit Website Dark-Site Illustration-Purple",
+                  "children": {},
+                  "tokens": {
+                    "i-AnatomyBorder010": "71aa4d4be5be473acebdf0ea94aeaa229f1af331",
+                    "i-Interface070": "3b52567702c3ac64aaa0d9dd729a328619ff28b5",
+                    "i-Interface030": "e24225de7107efd6be0cc4968a235f273b30e9b2",
+                    "i-Interface020": "363a007fca48c716a1d8286952bc8707fd0a12af",
+                    "i-Interface010": "01103585816a11da0697477b69a17122519b9e67",
+                    "i-Disabled": "f8600d34665317f7f4621fa6999c37ee94cee130",
+                    "i-Background010": "0f516df7e7d7fe63380b4e2d149a97625f6b72b9",
+                    "i-Palette080": "296e1a66cdb1a7559952842a7381e4b3716c4868",
+                    "i-Palette010": "3992ed5a16fe0a0000551a50025ea7d8a3863b7f"
+                  }
+                },
+                "Teal": {
+                  "themeName": "NewsKit Website-NewsKit Website Dark-Site Illustration-Teal",
+                  "children": {},
+                  "tokens": {
+                    "i-Background010": "3460ebbe816b5b2c08c05c971982880f0d56b272",
+                    "i-Highlight010": "83392a660fa7620eccab8cc2f04eabbda1c1a128"
+                  }
+                }
+              },
+              "tokens": {}
+            }
+          },
+          "tokens": {
+            "inkBase": "705cca0855f207a2da4ff4e9dd428a0c77898a30",
+            "inkContrast": "fa879e2c0458bdf925edc1e0d1c0b67cf4ad1e96",
+            "inkNonEssential": "bc5039a8ecc0b946af02c8ae5992a973620a1c7c",
+            "inkLight010": "dfd01a3ad5570da7a7e60487ac4b01fba0c4d418",
+            "inkWhiteSubtle": "0587258d41ccd9c6ae3e8995d223298acd32ab84",
+            "interface010": "ae064cd1846f2f2ba37f6f0030f32e184184fa88",
+            "interface030": "08fa0d92cc3043744c22cd14bba7b302d6c0838d",
+            "interface040": "e6842a59ba4dba4b66f8718eb238675fb4e0185c",
+            "interfacePositive010": "4bb9417c12b9b40483d4c0db3d88058d3ed30657",
+            "interfaceNegative010": "dab51147f43827a5c2a65e4915dddfb95ca8abeb",
+            "interfaceNegative020": "a2c6eb51fbc1641ae86f2c562c0e38fc107ff45c",
+            "interfaceNotice010": "7c5ceb75d1d3fc3c7de36673d21fbd6de63245d4",
+            "interfaceNotice020": "cd1572894a40534e26947bc09f222d46959c2c0e",
+            "interfaceInformative010": "f13bc9e5df7ee481a554097d16b6bd0c85d01882",
+            "interfaceInformative020": "80925049df667253bfa676429e28e2267e0163c9",
+            "interfaceNeutral020": "06a7fecbcbf0627b231b8c083d98b9edeabe3688",
+            "interactivePrimary050": "37edd7a1b9ebb7897f250ab1186c4ce7b12a7eef",
+            "interactiveSecondary010": "5bccefe6f179bc040e35d8904cfa950afd7a91b9",
+            "interactiveSecondary020": "88db6093903323c845f9ae6735e58f1adc4578c9",
+            "interactivePositive010": "aa67d3fb2de585922fa52864710d793e08ed6e26",
+            "interactiveNegative050": "c5b0674188fbebc1496e769c1e7211e58672aa31",
+            "interactiveInput050": "37307cceccc8e4cccdfab1baf16ea4613448c1a5",
+            "overlayGradientBaseHorizontal": "cc6cb0f5a86549bc1bd471b665bb5e8e67a5b940",
+            "overlayGradientInverseHorizontal": "61e77db80f357629cd837e4e7f7a5001ea813ad7"
+          }
+        },
+        "Site Illustration": {
+          "themeName": "NewsKit Website-Site Illustration",
+          "children": {
+            "Blue": {
+              "themeName": "NewsKit Website-Site Illustration-Blue",
+              "children": {},
+              "tokens": {
+                "i-Palette090": "de28ab1aa6e63bff23e1b3624f29195cb331033f",
+                "i-Palette080": "fbe9bde6334c500c88ad0ddbba8ca498e0228947",
+                "i-Palette060": "0e4553264c6a07ecf0a1fae9e20f22f2c2ba58bb",
+                "i-Palette040": "4445e2e3d0a77eb097b1a0045f95ad150b12c8a5",
+                "i-Palette030": "158dfa616a473a332c211441087d50e1dfb73aea",
+                "i-Palette010": "270e8365217478fbbccb803b4625613b0c7f7712",
+                "i-Highlight010": "240ce1b71c63a35f8645ead61e64ce9fc911e644",
+                "i-Gradient010": "77ffae2aa1b01335d6c792d96ad041b3face6842",
+                "i-Shadow010": "a9822410beb7e48cae518331e14f18bee3c4e040",
+                "i-Subtle010": "febe1d193c99363878595f05cb759514d4c1cb66",
+                "i-Interface090": "53ea0b4eab7209b86309461ab1a87d73864491ed",
+                "i-Interface010": "bcd48db137603bbafc5e174bc48ce75373816fad",
+                "i-AnatomyBorder010": "82ac105959732527da8bf3f6da222e1ab23621d5"
+              }
+            },
+            "Purple": {
+              "themeName": "NewsKit Website-Site Illustration-Purple",
+              "children": {},
+              "tokens": {
+                "i-Gradient020": "7c0c7692d52ba6d340e6ef072e49aec78696d568",
+                "i-Gradient010": "9683d51fd327228eac21e98583bc618b3809913b",
+                "i-Shadow010": "0c15113ead61e6dd6e4fa7246d9523131dd41617",
+                "i-Subtle010": "f482a75069f7493debeebacf5e9448e426305b27",
+                "i-Background010": "627aa7533c978afccc74ea913b8fad403e09ec91"
+              }
+            },
+            "Teal": {
+              "themeName": "NewsKit Website-Site Illustration-Teal",
+              "children": {},
+              "tokens": {
+                "i-Interface050": "4764f005353707236fad4c885ba01459a8ce4b1e",
+                "i-Interface040": "2a762786016e75e985c5c96811ff33ea2b0b0336"
+              }
+            }
+          },
+          "tokens": {}
+        }
+      },
+      "tokens": {
+        "inkBase": "f36aa690034d97077d7eacccac2bccd14f191d9f",
+        "inkContrast": "1811691fd5ee10a0abb48c843fcd066314301547",
+        "inkSubtle": "91c6be9015b47b48b3db886b653c19695c20f132",
+        "inkNonEssential": "19c28a9f536e7d520fe0e22c6a901c776b1364a3",
+        "inkInverse": "37c1225219f74a3c794b431cc5482b90b18c3422",
+        "inkPositive": "0ce2385f494077be6a16567a21fa83ae85913ba0",
+        "inkNegative": "8aa9dcc84d67d4c8bbb2b8e2c0115d4b8938b70b",
+        "inkNotice": "7609a090c10707a6e51e06f56b53667eb63c55cc",
+        "inkInformative": "eeb59fabf044950867f6dcf5c77121bf50e77854",
+        "inkBrand030": "6188cecd18003e4f62df61025ecffed6a9d310e1",
+        "interfaceBrand020": "412e63d2dd9e288d95d1c1bb0d99a4c041ac5219",
+        "interfacePositive010": "263d68cdf84179207c51f4fd157994b09a6365aa",
+        "interfacePositive020": "e34dd6e7a3d4ca3d2e736078252002b49e711b99",
+        "interfaceNegative010": "859777efaf02bb6cd2939d0b8f632a711aebf737",
+        "interfaceNegative020": "4317926e205f2d99f67ccf247190de499c521f9c",
+        "interfaceNotice010": "381c46a460fc5a6f7b1c8dfd0d8fe284954c761e",
+        "interactivePrimary040": "da92f491bffd68fdfc4eadd49ceddc94c265fbb0",
+        "interactiveSecondary020": "9869c21e1113e1f479c945061c5944769d8b4f41",
+        "interactiveSecondary040": "6db3b85efc8596a2eb837d92c65bee1fc58dc9ef",
+        "interactiveSecondary050": "3e213efe8b335a8365c09768867967ece7908ec3",
+        "interactivePositive010": "7482bc52f59aafb03595c46c7e576ece5964fd33",
+        "interactivePositive020": "9b0b85f20842b32719e40d5bfa8efd6238674b46",
+        "interactivePositive030": "b786f44c9ae2cbc1232dd863dca9b9717ad16e91",
+        "interactivePositive040": "ae7e98135f95fce8be271cc209a562fae31de0a4",
+        "interactivePositive050": "0c7905c5b2a3355d114f27a1c7ade4f7b2cd1a95",
+        "interactiveNegative010": "bee5f9ddf17f868ec40070f8f226cb0465e2ccd4",
+        "interactiveNegative020": "2fd50308d08992c2260f6085b3bdb561ba28ac14",
+        "interactiveInverse020": "7c2c9135ccfdc126592b53c31b60ddf2ed81b93b",
+        "interactiveInverse040": "2db1815bd8075d03ead97fbe690329c15ba6dfa1",
+        "interactiveLink030": "5cf9f8d8c714fdf97246373a9763f284828c8fb6",
+        "gradientFromBottomLeft": "b73fcc07ceb35741b0b2dc2440b4660c04c618cd",
+        "overlayTintBase010": "9686eeb85520bae4ca1d38a28716504da3d69a27",
+        "overlayTintBase020": "9b9f08abf80fb6fcb8a0ad914681282e2fde7a40",
+        "overlayTintBase030": "91354ddc352fa8a289ac9819665b23875d422c28",
+        "overlayTintInverse020": "dab761fa856b26803fcbab8bb7d3ae0c98c5adaa",
+        "overlayTintInverse030": "98808d36f5677e0dc2e189a1ebf726215155d79a",
+        "overlayTintInverse040": "4c5a25d118e1a7d779661ca02367a6da56bb8766",
+        "purple100": "230553271b810184985243abf226fef036d9c504",
+        "purple090": "b8069f23f9b711148afe607029d47288d9cc0db7",
+        "purple080": "c7e0f7b5efcf518be179851d54a95df2fac72fbf",
+        "purple070": "d2632b94683063cf46d347ee6a90be907b04908c",
+        "purple060": "4e3fe99415ca09e8e814c9cb388cad729e8993bf",
+        "purple050": "7a9aaa2aa28e8b6ebb0a9488a6efc4d2231175ae",
+        "purple040": "bba6e8a567668b360f06cbab716ab41abcc6d2db",
+        "blue100": "b75f015c06c7cc0deeb343e128e208ff5cd6d9fc",
+        "blue090": "680c92f3d7ab313667502609490b69cc4bbd9f8e",
+        "blue080": "7691e644b0e9a74f851390f298473b326e86f6f8",
+        "blue070": "4bdd7db1ee83b1aeff2b43c8aef3823d667a84f4",
+        "blue060": "50d60da394b78b801087fb70cffe5b19edfc175e",
+        "blue050": "233e96a57bafbd78af11f02abafcaaca3bf391ad",
+        "blue040": "16696d91dde6828f2bb4553272af41ed4cb31ac6",
+        "blue020": "f49e6b20e5c5c53c7956c7c0d34b4d3a4560204e",
+        "blue010": "61ec5fa02d0558e8445fbb68bf9cf61f47867801",
+        "teal090": "bf40c60353b29c3b60b577a53d12f3129006d44c",
+        "teal080": "b9a4b09a182edf72f0912ae935aecf1dc2d366f3",
+        "teal070": "9322d31701143e9802141d128e8ebefee83c74b6",
+        "teal060": "2e806e2c7ee84c2971e1553cf24d59ced88dabb9",
+        "teal050": "40651419bd1b52055675e0daa9a419506fa052f2",
+        "teal040": "ebc0d38644b146abf8595a75a620193a59c05c3a",
+        "teal030": "d513882616eaa7368873e29005e60788c1da3e34",
+        "teal020": "9e3fe23e0f2374cb5d3a3df42ab59f5b02cc5491",
+        "teal010": "cc394ab2244048f3f3fad924f6f00578b4f2f1c8",
+        "amber100": "2bb1d5026ebec4c4e60cd54d0e00818f574eae97",
+        "amber080": "89e50a1e75ebe3fd0af040a0e7cf1521cb56b0bb",
+        "amber060": "93a23ab785a97166e55cf89d40c8a4845666a3dd",
+        "amber050": "984aa86b02f933c3649f7418ec9792cca974555c",
+        "amber040": "3a9abc74b6d89d63ac82593753c476220346d6f0",
+        "amber030": "d0d74ffe3b8fbb057402662e7bd087c6fa487438",
+        "amber020": "020ec7c920a7cc31160553cec900546487f01b5d",
+        "amber010": "3d0c84f0131ee80922b94256ebb8a9b75ae0392d",
+        "red090": "95b0f6c16402f02fbc3716db3ca092240278a3a6",
+        "red060": "da2f74f9b2510edb3d21b2a096cda412f0b604d1",
+        "red040": "fa874dd0613e01dbd188164fb97d2956a794c44b",
+        "red020": "5e0382d90a879523f6c0bbfc4824c3069b8521cd",
+        "red010": "6a42198b11d9a7acc6ee85e31f53af0a6c7ee7dd",
+        "green100": "2e756099775ff7a70b7dfdb5ced772d92e2bb726",
+        "green080": "3e7919f9090f849e9d2e3933fc43622359b94672",
+        "green060": "e3cd37643ce3444e332c534b48e5445c3fd21ad5",
+        "green050": "a8f43cf3bc4d8374af356c2ad1c05cc861a5877f",
+        "green040": "5a6b39398e99b4e65bebff4a20dc7ec743ec9bdf",
+        "green030": "ff6b746cd05803f410f996986dc08023db33e9b1",
+        "green020": "dc7a9ab8e9ac2645dec054ffef405ed6e0a6e9a5",
+        "green010": "af6b024770f69c6c5c7cc45f42901ab294f7af67",
+        "darkBlue100": "1ed3d924ebbaf3905fb80af54182679071023036",
+        "darkBlue090": "83921b425970a9376a481037f9c2f6cfb0185021",
+        "darkBlue050": "06384d8b2b8155ba1a57206600889c3d3a67a545",
+        "whiteTint090": "ae0d784f6a01ac3696d3d551ec17a2d086cb06fa",
+        "whiteTint080": "8ae5351216a60e304607efa5231b1e3ee06de8ab",
+        "whiteTint070": "ac1977832ec7ef4e08b14ea28ff2cabdd7d8480b",
+        "blackTint050": "22bd8b7c1c8e5bdea8ab074f28d27c4eb66b1326",
+        "blackTint040": "01e15135d045b135dae3f282e652a60033973dd2"
+      }
+    },
+    "NewsKit": {
+      "themeName": "NewsKit",
+      "children": {
+        "Website": {
+          "themeName": "NewsKit-Website",
+          "children": {},
+          "tokens": {
+            "shadow010": "b3b8bbe9657796f5e33f1b42147d56b90a48f52d",
+            "shadow020": "67ea14bf3956eca05a655a65b17c1efa5306909a",
+            "shadow030": "ff054028bb4c5259f15d0e59fa973998fe8f2e77",
+            "shadow040": "8c61a60fd89853652a9afe153ad5e2f7046525b5",
+            "shadow050": "4e44803b0fc0b1beadde534a749efd63a06835bf",
+            "shadow060": "22b987ec6670ea8ee7e48733ec8123430f12c0e2",
+            "XL - Extra large (Sidebar)": "7a913450716410599e7ad64fcc8d9dec672c67ce",
+            "XL - Extra large": "bfa4c5ca83242eaef22e8b0965d416191ea10d99",
+            "LG - Large": "119fc2694e0048cb6e919cfabf9e728f5c18bc0f",
+            "MD - Medium": "c01180acaf46e72cb702a7f3d4e669e024673751",
+            "SM - Small": "b09c9ff9d173435b7da92dd4f471aea7c389adda",
+            "XS - Extra Small": "4dca921f2982caad74c05192918dd6ac68fd7827",
+            "borderRadiusDefault": "d0f53cf707f9b0e421f90e964e7f1757befa89dc",
+            "borderRadiusSharp": "b540f7cfd2cdd4deca37f7799edf4f8b05c463cf",
+            "borderRadiusRounded010": "96aa22cbd4b90b9c791c99a82be913b5665b35d8",
+            "borderRadiusRounded020": "e9aaadf82c57341caead21f90c3fd8bfcbb86523",
+            "borderRadiusRounded030": "4395de58f153b4e0954b6694b38f7a392d35ceac",
+            "borderRadiusRounded040": "e00cb2b6cc26ea2b1e8400db3514b9119cf255d3",
+            "borderRadiusRounded050": "13d18ae601e585a2aa167236ea953a87a84fff66",
+            "borderRadiusPill": "e05d52daf9d7c0ac8d604a764df3b207e6b577ad",
+            "borderRadiusCircle": "09c1e89c1178fdb89b8e48f8c379a3f910873bd8",
+            "editorialDisplay010": "ff09fb69a6b748acce294fa57031cd881f4a0123",
+            "editorialHeadline010": "7fe88aff3e11cbadd271bdd2b47783c1dd58fba3",
+            "editorialHeadline020": "6f70ad2f5971fbfa0dcc6c35b649664e457abbe1",
+            "editorialHeadline030": "33b7c5669d338b52971299927042922f97114af6",
+            "editorialSubheadline020": "87412850d469bcecd75823b5e48b2c3f9596c18e",
+            "editorialSubheadline040": "6a997fcb85a6e8c8dcdec7015c90464b2d726121",
+            "editorialParagraph020": "9e55d82c348b7e7973454fcb063ef94ff94a261f",
+            "editorialQuote020": "bcbcdd3a9b08e69eeb32c643dace54cf2e4b56da",
+            "editorialLabel010": "80998fc75a445bf502f00134670f4d4f470d90a3",
+            "editorialLabel020": "882f65c7a8d989f8d081efde639902a01ced71bf",
+            "editorialLabel030": "bfc6fb7b737cc451c675192e6c6e9a5597950f52",
+            "utilityHeading030": "830b88334bc63267b0d4a83a2fa1f3a73625b9f5",
+            "utilityHeading040": "391c0e1784a676812be23e5da39cf4b65f339cf3",
+            "utilityHeading050": "07592e830bc0de80ee2cac92ff9e80bf514d9212",
+            "utilitySubheading010": "177b27a894db7a12d2eb04ff0c37a2bd7c8aab75",
+            "utilitySubheading020": "ee3caf1f896296c8a75c3b7c05b8c2f2d393a1ba",
+            "utilitySubheading030": "af46945eda49fd3e92d13176eeaced3b191252f0",
+            "utilityBody020": "7d2c7284e1830142bc49bd2f62ab8f4252eddd89",
+            "utilityLabel030": "a192caae3e6c356e660cdbdd1ca0a8cd5ac2c4e4",
+            "utilityButton010": "f34a1cf3585545d9d552754060fd439041e006ba",
+            "utilityButton020": "d083e2d69b80f200720e3c834002cc3589191233",
+            "utilityButton030": "6e751ebf1b7a7f0e2d915708083a26a20c46a556",
+            "utilityMeta010": "abc5df8ce63c59f0689925b7940b139adb748b56",
+            "utilityMeta020": "bd95849818174a8020611b28fb8172fd36a93c6f"
+          }
+        }
+      },
+      "tokens": {}
+    }
+  },
+  "tokens": {}
+}
